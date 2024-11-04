@@ -1,0 +1,1 @@
+export const MCLOGS_API_BASE = 'https://api.mclo.gs/1';
